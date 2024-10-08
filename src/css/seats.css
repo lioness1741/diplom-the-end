@@ -35,11 +35,11 @@
     background-color: #ffffff;
  }
  .ticket_header-button:hover {
-    color: #ffa800;
+    color: #FFD800;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
  }
  .ticket_header-button:active {
-    background: #ffa800;
+    background: #FFD800;
     color: #292929;
  }
  
@@ -270,16 +270,16 @@
  }
  
  .ticket_class-button--active .ticket__class-icon {
-    fill: #ffa800;
+    fill: #FFD800;
  }
  
  .ticket_class-button--active .ticket_class-name {
-    color: #ffa800;
+    color: #FFD800;
  }
  
  .ticket_coach-header {
     min-height: 37px;
-    background: rgba(255, 168, 0, 0.44);
+    background: rgba(255,216,0, 0.44);
     display: flex;
     align-items: center;
  }
@@ -409,7 +409,7 @@
  }
  
  .service:hover {
-    background-color: #ffa800;
+    background-color: #FFD800;
  }
  
  .service-active {
@@ -535,7 +535,7 @@
  }
  
  .coach-seat--active {
-    border: 2px solid #ffa800;
+    border: 2px solid #ffd800;
  }
  
  .coach-seat:disabled {
@@ -581,7 +581,7 @@
     line-height: 28px;
     padding-right: 5px;
  
-    color: #ffa800;
+    color: #ffd800;
  }
  
  .coach-total-сurrency {
@@ -614,7 +614,7 @@
     font-size: 24px;
     text-transform: uppercase;
     color: #ffffff;
-    background: #ffa800;
+    background: #ffd800;
     border-radius: 5px;
     border: none;
  }
@@ -624,8 +624,8 @@
  }
  
  .seats_button:active {
-    color: #ffa800;
-    border: 1px solid #ffa800;
+    color: #ffd800;
+    border: 1px solid #ffd800;
     background-color: #e5e5e5;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
  }

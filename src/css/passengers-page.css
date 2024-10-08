@@ -9,7 +9,7 @@
     text-transform: uppercase;
     color: #ffffff;
  
-    background: #ffa800;
+    background: #FFD800;
     border-radius: 5px;
     border: none;
  }
@@ -19,8 +19,8 @@
  }
  
  .passengers_button:active {
-    color: #ffa800;
-    border: 1px solid #ffa800;
+    color: #FFD800;
+    border: 1px solid #FFD800;
     background-color: #e5e5e5;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
  }
@@ -40,7 +40,7 @@
     font-size: 24px;
     text-transform: uppercase;
     color: #ffffff;
-    background: #ffa800;
+    background: #FFD800;
     border-radius: 5px;
     border: none;
  }
@@ -50,8 +50,8 @@
  }
  
  .passengers_button:active {
-    color: #ffa800;
-    border: 1px solid #ffa800;
+    color: #FFD800;
+    border: 1px solid #FFD800;
     background-color: #e5e5e5;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
  }
@@ -188,7 +188,7 @@
  }
  
  .passengerForm-field:focus {
-    border: 1px solid #ffa800;
+    border: 1px solid #FFD800;
  }
  
  .passengerForm-radio-group {
@@ -232,7 +232,7 @@
  }
  
  .passengerForm_radio-field:checked + .passengerForm_radio-label {
-    background-color: #ffa800;
+    background-color: #FFD800;
  }
  
  .passengerForm_checkbox {
@@ -293,11 +293,11 @@
  .passengerForm-button:hover {
     background-color: #ffffff;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    color: #ffa800;
+    color: #FFD800;
  }
  
  .passengerForm-button:active {
-    background-color: #ffa800;
+    background-color: #FFD800;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     color: #292929;
  }
@@ -315,7 +315,7 @@
  }
  
  .passengerForm-footer.warning {
-    background-color: rgba(255, 61, 0, 0.38);
+    background-color: rgba(255, 72, 0, 0.38);
  }
  
  .passengerForm-massage {

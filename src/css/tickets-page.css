@@ -98,20 +98,20 @@
     left: 1219px;
     top: 2878px;
  
-    background: #ffa800;
+    background: #ffd800;
     border-radius: 5px;
-    border: 0 solid #ffa800;
+    border: 0 solid #ffd800;
  
     color: #ffffff;
  }
  
  .pagination__item:hover,
  .pagination__button:hover {
-    border: 2px solid #ffa800;
+    border: 2px solid #ffd800;
     box-sizing: border-box;
     border-radius: 5px;
-    color: #ffa800;
-    fill: #ffa800;
+    color: #ffd800;
+    fill: #ffd800;
  }
  .pagination__item-dot:hover {
     cursor: auto;
@@ -146,7 +146,7 @@
  }
  
  .quantity-value-active {
-    color: #ffa800;
+    color: #ffd800;
  }
  
  .sort-name {
